@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CoreUITest",
+    "slug": "CoreUITest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CoreUITest"
+}
